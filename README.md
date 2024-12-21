@@ -2,7 +2,7 @@
 Cuộc thi: Child Mind Institute — Problematic Internet Use
 Relating Physical Activity to Problematic Internet Use
 
-## Thành viên
+## Thành viên Well-documented Github codebase
 - Trần Ngọc Huy     (ID: 22028049)
 - Nguyễn Duy Khánh  (ID: 22028030)
 - Nguyễn Duy Hưng   (ID: 22028264)
